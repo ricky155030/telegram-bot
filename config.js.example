@@ -1,0 +1,5 @@
+const config = {
+  botToken: '454426241:AAEQ87lW9huAxQZH9UVoaoG0-PdAI5dcSc0'
+}
+
+module.exports = config
